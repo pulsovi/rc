@@ -1,10 +1,9 @@
-'use strict';
-var fs   = require('fs')
-var ini  = require('ini')
-var path = require('path')
-var stripJsonComments = require('strip-json-comments')
+import fs from 'fs';
+import * as ini from 'ini';
+import path from 'path';
+import stripJsonComments from 'strip-json-comments';
 
-var parse = exports.parse = function (content) {
+export function parse (content: string): Record<string, unknown> {
 
   //if it ends in .json or starts with { then it must be json.
   //must be done this way, because ini accepts everything.
@@ -17,15 +16,15 @@ var parse = exports.parse = function (content) {
 
 }
 
-var file = exports.file = function () {
-  var args = [].slice.call(arguments).filter(function (arg) { return arg != null })
+export function file (...rawArgs: string[]): string | undefined {
+  var args = rawArgs.filter(function (arg) { return arg != null })
 
   //path.join breaks if it's a not a string, so just skip this.
   for(var i in args)
     if('string' !== typeof args[i])
       return
 
-  var file = path.join.apply(null, args)
+  var file = path.join(...args)
   var content
   try {
     return fs.readFileSync(file,'utf-8')
@@ -34,12 +33,12 @@ var file = exports.file = function () {
   }
 }
 
-var json = exports.json = function () {
-  var content = file.apply(null, arguments)
+export function json (...args: string[]): Record<string, any> {
+  var content = file(...args)
   return content ? parse(content) : null
 }
 
-var env = exports.env = function (prefix, env) {
+export function env (prefix: string, env?: NodeJS.ProcessEnv): Record<string, any> {
   env = env || process.env
   var obj = {}
   var l = prefix.length
@@ -85,20 +84,20 @@ var env = exports.env = function (prefix, env) {
   return obj
 }
 
-var find = exports.find = function () {
-  var rel = path.join.apply(null, [].slice.call(arguments))
+export function find (...pathSegments: string[]): string {
+  var rel = path.join(...pathSegments)
 
-  function find(start, rel) {
+  function find_1(start, rel) {
     var file = path.join(start, rel)
     try {
       fs.statSync(file)
       return file
     } catch (err) {
       if(path.dirname(start) !== start) // root
-        return find(path.dirname(start), rel)
+        return find_1(path.dirname(start), rel)
     }
   }
-  return find(process.cwd(), rel)
+  return find_1(process.cwd(), rel)
 }
 
 

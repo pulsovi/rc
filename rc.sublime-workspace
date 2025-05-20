@@ -1,0 +1,1303 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pack",
+				"packageName"
+			],
+			[
+				"packa",
+				"packageName"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"get",
+				"getRootLogger"
+			],
+			[
+				"pa",
+				"packageName"
+			],
+			[
+				"p",
+				"processAll"
+			],
+			[
+				"mar",
+				"markdownLinkBrackedRE"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"res",
+				"responsesURL"
+			],
+			[
+				"ca",
+				"cache2File"
+			],
+			[
+				"mim",
+				"mimeTypes"
+			],
+			[
+				"resons",
+				"responsesURL"
+			],
+			[
+				"resp",
+				"responsesURL"
+			],
+			[
+				"reso",
+				"resolveLink"
+			],
+			[
+				"obs",
+				"obsidian-index"
+			],
+			[
+				"file",
+				"fileType"
+			],
+			[
+				"mmm",
+				"mmmagic"
+			],
+			[
+				"starts",
+				"startsWith"
+			],
+			[
+				"ma",
+				"markdownLinkRE"
+			],
+			[
+				"wikiL",
+				"wikiLink"
+			],
+			[
+				"decode",
+				"decodeURIComponent"
+			],
+			[
+				"en",
+				"ensureFile"
+			],
+			[
+				"full",
+				"fullText"
+			],
+			[
+				"cac",
+				"cacheFile"
+			],
+			[
+				"disall",
+				"disallowedChars"
+			],
+			[
+				"sour",
+				"sourceUrl"
+			],
+			[
+				"site",
+				"siteFrom"
+			],
+			[
+				"with",
+				"withFrontAndBack"
+			],
+			[
+				"host",
+				"hostPath"
+			],
+			[
+				"do",
+				"downloadAttachement"
+			],
+			[
+				"que",
+				"questionChoices"
+			],
+			[
+				"resou",
+				"resourceCache"
+			],
+			[
+				"test",
+				"testOptionValues"
+			],
+			[
+				"page",
+				"pageContent"
+			],
+			[
+				"arra",
+				"ArrayBuffer"
+			],
+			[
+				"Rea",
+				"Readability"
+			],
+			[
+				"scrap",
+				"scrap-page"
+			],
+			[
+				"def",
+				"defaultOptions"
+			],
+			[
+				"resolve",
+				"resolveLink"
+			],
+			[
+				"wri",
+				"writeList"
+			],
+			[
+				"string",
+				"stringifyDate"
+			],
+			[
+				"write",
+				"writeList"
+			],
+			[
+				"__",
+				"__filename"
+			],
+			[
+				"inde",
+				"indexedFiles"
+			],
+			[
+				"is",
+				"isWikiLink"
+			],
+			[
+				"resol",
+				"resolveMarkdownLink"
+			],
+			[
+				"strin",
+				"stringifyDate"
+			],
+			[
+				"fin",
+				"finalContent"
+			],
+			[
+				"sec",
+				"seconds"
+			],
+			[
+				"lis",
+				"listStart"
+			],
+			[
+				"deco",
+				"decodePoint"
+			],
+			[
+				"dec",
+				"decodeCache"
+			],
+			[
+				"chi",
+				"childProcess"
+			],
+			[
+				"chil",
+				"child_process"
+			],
+			[
+				"dire",
+				"directory"
+			],
+			[
+				"direct",
+				"directory"
+			],
+			[
+				"las",
+				"lastIndex"
+			],
+			[
+				"getMo",
+				"getModels"
+			],
+			[
+				"li",
+				"listModels"
+			],
+			[
+				"export",
+				"export.js"
+			],
+			[
+				"last",
+				"lastSefer"
+			],
+			[
+				"ha",
+				"hash"
+			],
+			[
+				"current",
+				"currentText"
+			],
+			[
+				"node",
+				"nodeType"
+			],
+			[
+				"he",
+				"heSectionNames"
+			],
+			[
+				"link",
+				"linkText"
+			],
+			[
+				"rea",
+				"readFile"
+			],
+			[
+				"conten",
+				"contentText"
+			],
+			[
+				"tit",
+				"titleText"
+			],
+			[
+				"ke",
+				"keyPath"
+			],
+			[
+				"con",
+				"configGetter"
+			],
+			[
+				"sche",
+				"schemaRaw"
+			],
+			[
+				"sch",
+				"schemaPath"
+			],
+			[
+				"Ex",
+				"ExtractSefariaConfig"
+			],
+			[
+				"ext",
+				"extractSefer"
+			],
+			[
+				"pr",
+				"printBlocks"
+			],
+			[
+				"pri",
+				"printContents"
+			],
+			[
+				"Ja",
+				"JaggedArraySchema"
+			],
+			[
+				"j",
+				"JaggedArrayNode"
+			],
+			[
+				"type",
+				"nodeType"
+			],
+			[
+				"print",
+				"printSection"
+			],
+			[
+				"Jagg",
+				"JaggedArraySchema"
+			],
+			[
+				"sub",
+				"subSchema"
+			],
+			[
+				"su",
+				"subParts"
+			],
+			[
+				"man",
+				"manageAll"
+			],
+			[
+				"model",
+				"modelFolder"
+			],
+			[
+				"conf",
+				"configPath"
+			],
+			[
+				"anki",
+				"anki-pug"
+			],
+			[
+				"id",
+				"idToHe"
+			],
+			[
+				"se",
+				"sectionName"
+			],
+			[
+				"prin",
+				"printSections"
+			],
+			[
+				"la",
+				"lastPlace"
+			],
+			[
+				"utf",
+				"utf8"
+			],
+			[
+				"eslint",
+				"eslint-config-pulsovi"
+			],
+			[
+				"esl",
+				"eslint-config-pulsovi"
+			],
+			[
+				"eslin",
+				"eslint-config-pulsovi"
+			],
+			[
+				"tem",
+				"templates"
+			],
+			[
+				"wi",
+				"without"
+			],
+			[
+				"ret",
+				"retVal"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"com",
+				"computedColor"
+			],
+			[
+				"blo",
+				"blockInP"
+			],
+			[
+				"fir",
+				"firstElementChild"
+			],
+			[
+				"ge",
+				"getConfig"
+			],
+			[
+				"esli",
+				"eslint-config-pulsovi-node"
+			],
+			[
+				"inne",
+				"innerHTML"
+			],
+			[
+				"base-pug",
+				"base-pug-diff"
+			],
+			[
+				"_ver",
+				"_verso_template.html"
+			],
+			[
+				"_re",
+				"_recto_template.html"
+			],
+			[
+				"inli",
+				"inlineElement"
+			],
+			[
+				"ele",
+				"elemType"
+			],
+			[
+				"templ",
+				"templateFile"
+			],
+			[
+				"temp",
+				"templateName"
+			],
+			[
+				"ifwin",
+				"IfWinActive"
+			],
+			[
+				"sin",
+				"SingleInstance"
+			],
+			[
+				"fi",
+				"fieldsJSON"
+			],
+			[
+				"getTe",
+				"getTemplates"
+			],
+			[
+				"Fi",
+				"FixtureManager"
+			],
+			[
+				"T",
+				"TYPE_CLOZE"
+			],
+			[
+				"parse",
+				"parseConfigFieldValue"
+			],
+			[
+				"config",
+				"configFieldName"
+			],
+			[
+				"confi",
+				"configFieldName"
+			],
+			[
+				"parseConf",
+				"parseConfigFieldName"
+			],
+			[
+				"parseConfi",
+				"parseConfigField"
+			],
+			[
+				"getR",
+				"getRowCached"
+			],
+			[
+				"Ank",
+				"AnkiDbManagerProxy"
+			],
+			[
+				"AnkiD",
+				"AnkiDbManagerProxy"
+			],
+			[
+				"Anki",
+				"AnkiDbManager"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "node_modules/@types/minimist/index.d.ts",
+			"settings":
+			{
+				"buffer_size": 3648,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/utils.ts",
+			"settings":
+			{
+				"buffer_size": 2807,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bash",
+				"Terminus: Open Bash at Current Location"
+			],
+			[
+				"types",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"all",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"togg",
+				"Toggle Comment"
+			],
+			[
+				"typeinf",
+				"TypeScript: Signature Info"
+			],
+			[
+				"typerr",
+				"TypeScript: Show Error List"
+			],
+			[
+				"typeerr",
+				"TypeScript: Show Error List"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"type",
+				"TypeScript: Show Error List"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"toggle c",
+				"Toggle Comment"
+			],
+			[
+				"r",
+				"Rename File"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"marpr",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"typesin",
+				"TypeScript: Signature Info"
+			],
+			[
+				"typeserr",
+				"TypeScript: Show Error List"
+			],
+			[
+				"typ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"al",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"goer",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"goter",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"too",
+				"RegReplace: To oneline"
+			],
+			[
+				"pug",
+				"Build With: Pug"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"got",
+				"TypeScript: GoTo Definition"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"ahk",
+				"AutoHotkey - Run"
+			],
+			[
+				"swicom",
+				"RegReplace: Switch around comma"
+			],
+			[
+				"sw",
+				"RegReplace: Switch around comma"
+			],
+			[
+				"swco",
+				"RegReplace: Switch around comma"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"err",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"a",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"ana",
+				"Anaconda: Show error list"
+			],
+			[
+				"anali",
+				"Anaconda: Show error list"
+			],
+			[
+				"erro",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"comma",
+				"RegReplace: Switch around comma"
+			],
+			[
+				"swi",
+				"RegReplace: Switch around comma"
+			],
+			[
+				"bas",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Monokai Pro: select theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"eslint",
+			"print(\"coucou\")",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/_Forks/rc"
+	],
+	"file_history":
+	[
+		"/C/dev/_Forks/rc/node_modules/@types/minimist/index.d.ts",
+		"/C/dev/_Forks/rc/node_modules/@types/deep-extend/index.d.ts",
+		"/E/dev/03 - Anki/anki-cards/node_modules/@types/rc/index.d.ts",
+		"/E/SyncThing/David/[Justificatifs]/FDP Hadar/extract-page-3.cmd",
+		"/E/dev/_Forks/rc/index.ts",
+		"/E/dev/_Forks/rc/node_modules/@types/deep-extend/index.d.ts",
+		"/E/dev/_Forks/rc/lib/utils.ts",
+		"/E/dev/_Forks/rc/node_modules/@types/ini/index.d.ts",
+		"/E/dev/_Forks/rc/.yarnrc.yml",
+		"/E/dev/_Forks/rc/package.json",
+		"/E/dev/yarzait/package.json",
+		"/E/dev/_Forks/rc/types/index.d.ts",
+		"/E/dev/_Forks/rc/tsconfig.json",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/lib/rc-yaml.ts",
+		"/E/dev/03 - Anki/anki-cards/packages/anki-pug/tests/getConfig.test.ts",
+		"/E/dev/03 - Anki/anki-cards/node_modules/read-pkg-up/index.d.ts",
+		"/E/dev/03 - Anki/anki-cards/node_modules/@types/debug/index.d.ts",
+		"/E/dev/03 - Anki/scrap-as-markdown/bin/cache2.json",
+		"/E/dev/03 - Anki/scrap-as-markdown/bin/update-cache.mjs",
+		"/E/dev/03 - Anki/scrap-as-markdown/package.json",
+		"/E/dev/03 - Anki/obsidian-index/utils/resolveLink.js",
+		"/E/dev/03 - Anki/scrap-as-markdown/bin/cache.json",
+		"/E/dev/03 - Anki/scrap-as-markdown/bin/scrap-page.mjs",
+		"/E/dev/03 - Anki/obsidian-index/bin/list-modified.mjs",
+		"/E/dev/03 - Anki/obsidian-index/bin/index-read.mjs",
+		"/E/dev/03 - Anki/obsidian-index/bin/index-linked.mjs",
+		"/E/dev/03 - Anki/obsidian-index/utils/index.js",
+		"/E/dev/03 - Anki/obsidian-index/utils/fileList.js",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/lib/index.ts",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/lib/util.ts",
+		"/E/dev/03 - Anki/scrap-as-markdown/node_modules/ssl-root-cas/ca-store-generator.js",
+		"/E/dev/03 - Anki/scrap-as-markdown/node_modules/ssl-root-cas/latest.js",
+		"/C/Users/DHG/AppData/Local/Temp/Cahier des charges VIP 2.docx.rtf",
+		"/E/dev/03 - Anki/scrap-as-markdown/.gitignore",
+		"/E/dev/03 - Anki/Anki.sublime-project",
+		"/E/dev/03 - Anki/scrap-as-markdown/bin/responses.json",
+		"/E/dev/03 - Anki/scrap-as-markdown/.yarnrc.yml",
+		"/C/Users/DHG/AppData/Roaming/Sublime Text 3/Packages/TypeScript/tsserver/lib.es5.d.ts",
+		"/E/dev/03 - Anki/scrap-as-markdown/Eviter les pièges de la pensée.md",
+		"/E/dev/03 - Anki/scrap-as-markdown/setext.md",
+		"/E/dev/03 - Anki/scrap-as-markdown/atx.md",
+		"/E/dev/03 - Anki/scrap-as-markdown/collapsed.md",
+		"/E/dev/03 - Anki/scrap-as-markdown/full.md",
+		"/E/dev/03 - Anki/scrap-as-markdown/shortcut.md",
+		"/E/dev/03 - Anki/scrap-as-markdown/mardown.md",
+		"/E/home/dhg/downloads/Eviter les pièges de la pensée.md",
+		"/C/Users/DHG/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/E/SyncThing/Obsidian/David Gabison/Archive/Sous projets et idées du projet Zettelkasten.md",
+		"/E/SyncThing/Obsidian/David Gabison/Archive/Comment noter dans obsidian.md",
+		"/E/SyncThing/Obsidian/David Gabison/Archive/Fil de lecture.md",
+		"/E/SyncThing/Obsidian/David Gabison/Archive/Créer une application bureau avec les technologies du web.md",
+		"/E/SyncThing/Obsidian/David Gabison/Archive/Sous projets et idées du [[projet Zettelkasten]].md",
+		"/E/SyncThing/Obsidian/David Gabison/Archive/projet Zettelkasten.md",
+		"/E/dev/03 - Anki/obsidian-index/utils/assertGitClean.js",
+		"/E/SyncThing/Obsidian/Eliott Meunier/Archive/Augmenter la friction pour les mauvaises habitudes.md",
+		"/E/dev/03 - Anki/obsidian-index/.gitignore",
+		"/E/SyncThing/Obsidian/David Gabison/.obsidian/plugins/obsidian-linter/data.json",
+		"/E/SyncThing/Obsidian/.obsidian/plugins/obsidian-linter/data.json",
+		"/E/SyncThing/Obsidian/.obsidian/plugins/obsidian-linter/data.json.bak",
+		"/E/SyncThing/Obsidian/David Gabison/Archive/Améliorer un processus en enlevant les blocages.md",
+		"/E/SyncThing/Obsidian/David Gabison/.obsidian/themes/DavidGabison.css",
+		"/E/dev/03 - Anki/obsidian-index/reading-list.mjs",
+		"/E/dev/03 - Anki/obsidian-index/package.json",
+		"/E/dev/03 - Anki/obsidian-index/index.mjs",
+		"/E/SyncThing/Obsidian/David Gabison/Readwise/__Fil de lecture__.md",
+		"/E/dev/03 - Anki/obsidian-index/utils/command.js",
+		"/E/dev/03 - Anki/obsidian-index/utils/stringifyDate.js",
+		"/E/dev/03 - Anki/obsidian-index/utils/decode.js",
+		"/C/Users/DHG/AppData/Local/Yarn/Data/global/node_modules/eslint/lib/eslint/eslint.js",
+		"/E/dev/03 - Anki/obsidian-index/utils/$.js",
+		"/E/usr/local/bin/sublime-text",
+		"/E/dev/03 - Anki/anki-cards/packages/anki-pug/package.json",
+		"/E/dev/03 - Anki/anki-cards/packages/anki-pug/src/bin/index.ts",
+		"/E/dev/03 - Anki/anki-cards/packages/anki-pug/src/lib/index.ts",
+		"/E/dev/03 - Anki/anki-cards/packages/anki-pug/src/lib/DiffManager.ts",
+		"/E/SyncThing/Obsidian/David Gabison/.obsidian/app.json",
+		"/C/Users/DHG/AppData/Local/Temp/Temp1_UPDATE-SuperSU-v1.65.zip/META-INF/com/google/android/updater-script",
+		"/E/home/dhg/downloads/samsung-s5-mini/unpack.sh",
+		"/E/dev/03 - Anki/anki-cards/packages/anki-pug/src/lib/ModelManager.ts",
+		"/E/dev/03 - Anki/anki-cards/packages/manager/index.js",
+		"/E/dev/03 - Anki/anki-cards/packages/anki-pug/src/lib/Model.ts",
+		"/E/dev/03 - Anki/anki-cards/packages/anki-pug/src/lib/Tree.ts",
+		"/E/dev/03 - Anki/anki-cards/packages/anki-pug/src/lib/getConfig.ts",
+		"/E/dev/_Forks/Sefaria-Export/schemas/Psalms.json",
+		"/E/dev/_Forks/Sefaria-Export/schemas/Duties_of_the_Heart.json",
+		"/E/dev/_Forks/Sefaria-Export/cltk-flat/Philosophy/Duties of the Heart/Hebrew/merged.json",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/lib/Sefer.ts",
+		"/E/dev/obsidian-publish-scrap/package.json",
+		"/E/dev/03 - Anki/extract-from-sefaria/lib/util.js",
+		"/E/dev/_Forks/Sefaria-Export/schemas/Psalm_CLIV.json",
+		"/E/dev/_Forks/Sefaria-Export/schemas/Publisher's_Haggahot_on_Sefer_HaParnas.json",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/bin/load.ts",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/lib/index.ts.old",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/lib/getConfig.ts",
+		"/E/dev/_Forks/Sefaria-Export/schemas/Sheet.json",
+		"/E/dev/_Forks/Sefaria-Export/schemas/I_Kings.json",
+		"/E/dev/_Forks/Sefaria-Export/cltk-flat/Tanakh/Writings/Psalms/Hebrew/merged.json",
+		"/E/dev/03 - Anki/extract-from-sefaria/.extract-from-sefariarc",
+		"/E/dev/_Forks/Sefaria-Export/cltk-full/Tanakh/Writings/Psalms/Hebrew/merged.json",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/lib/sources.ts",
+		"/E/dev/03 - Anki/extract-from-sefaria/.eslintrc",
+		"/E/dev/03 - Anki/extract-from-sefaria/debug.js",
+		"/E/dev/03 - Anki/extract-from-sefaria/extract-from-sefariarc",
+		"/E/dev/03 - Anki/extract-from-sefaria/index.js",
+		"/E/dev/03 - Anki/extract-from-sefaria/package.json",
+		"/E/dev/03 - Anki/extract-from-sefaria/node_modules/rc/index.js",
+		"/E/dev/03 - Anki/extract-from-sefaria/node_modules/rc/lib/utils.js",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/lib/content.ts",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/.eslintrc",
+		"/E/dev/03 - Anki/.eslintrc.",
+		"/E/dev/03 - Anki/anki-cards/package.json",
+		"/E/dev/03 - Anki/extract-from-sefaria/debug-code.js",
+		"/E/dev/03 - Anki/.yarnrc.yml",
+		"/E/dev/03 - Anki/extract-from-sefaria/node_modules/@types/node/child_process.d.ts",
+		"/E/dev/03 - Anki/package.json",
+		"/E/SyncThing/Obsidian/David Gabison/Archive/Clés API Gravity forms pour le projet Yarzait.md",
+		"/E/dev/03 - Anki/extract-from-sefaria/node_modules/commander/typings/index.d.ts",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/bin/extract-sefer.ts",
+		"/E/dev/_Forks/Sefaria-Export/cltk-flat/Tanakh/Writings/Psalms/Hebrew/Tanach with Nikkud.json",
+		"/E/SyncThing/Obsidian/David Gabison/.obsidian/plugins/obsidian-editor-shortcuts/main.js",
+		"/E/dev/03 - Anki/anki-models/README.md",
+		"/E/dev/_Forks/Sefaria-Export/.git/info/sparse-checkout",
+		"/E/dev/yarzait/lib/getConfig.js",
+		"/E/dev/03 - Anki/extract-from-sefaria/src/lib/schema.ts",
+		"/E/dev/_Forks/obsidian-editor-shortcuts/utils.ts",
+		"/E/SyncThing/Obsidian/.gitignore",
+		"/E/SyncThing/rpi/scripts/pi/decouverte/upnp-dhg.ddns.net.list",
+		"/E/home/dhg/downloads/temp/mpbdiff"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"deepExtend",
+			"argv",
+			"defaults",
+			"env",
+			"arguments",
+			"var",
+			"join"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "node_modules/@types/minimist/index.d.ts",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"rainbow_checked": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/utils.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1103,
+								1103
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"rainbow_checked": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 639.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 139.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 138.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 230.0
+	},
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 195.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rc.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gitcl",
+				"obsidian-index\\utils\\assertGitClean.js"
+			],
+			[
+				"utits",
+				"extract-from-sefaria\\src\\lib\\util.ts"
+			],
+			[
+				"seferts",
+				"extract-from-sefaria\\src\\lib\\Sefer.ts"
+			],
+			[
+				"sef",
+				"extract-from-sefaria\\src\\lib\\Sefer.ts"
+			],
+			[
+				"diff\\anki-pug-diff-manager.js",
+				"anki-cards\\src\\diff\\anki-pug-diff-manager.js"
+			],
+			[
+				"src\\diff\\anki-pug-model.js",
+				"anki-cards\\src\\diff\\anki-pug-model.js"
+			],
+			[
+				"tests\\src\\classes\\AnkiDbManager.js",
+				"anki-cards\\tests\\src\\classes\\AnkiDbManager.js"
+			],
+			[
+				"mixin",
+				"anki-cards\\model\\mixins.pug"
+			],
+			[
+				"mixi",
+				"anki-cards\\model\\mixins.pug"
+			],
+			[
+				"anki-pug-diff.js",
+				"anki-cards\\src\\diff\\anki-pug-diff.js"
+			],
+			[
+				"\\diff\\anki-pug-model.js",
+				"anki-cards\\src\\diff\\anki-pug-model.js"
+			],
+			[
+				"tests\\out\\1lvc0m48k054x6dl\\index.html",
+				"anki-cards\\tests\\out\\1lvc0m48k054x6dl\\index.html"
+			],
+			[
+				"1lv14",
+				"anki-cards\\tests\\out\\1lvc0daojxvqr14j\\anki.html"
+			],
+			[
+				"/out/1lvc0d4ojxx56qkz/pug.html",
+				"anki-cards\\tests\\out\\1lvc0d4ojxx56qkz\\pug.html"
+			],
+			[
+				"tests\\out\\1lvc0dhgjxsnmeq",
+				"anki-cards\\tests\\out\\1lvc0dhgjxsnmeqm\\anki.html"
+			],
+			[
+				"debug\\fixture-manager.js",
+				"anki-cards\\tests\\src\\debug\\fixture-manager.js"
+			],
+			[
+				"anki-cards\\src\\diff\\anki-pug-template.js",
+				"anki-cards\\src\\diff\\anki-pug-template.js"
+			],
+			[
+				"-cards\\src\\diff\\anki-pug-template.",
+				"anki-cards\\src\\diff\\anki-pug-template.js"
+			],
+			[
+				"nkiNotetype.",
+				"anki-cards\\tests\\src\\classes\\AnkiNotetype.js"
+			],
+			[
+				"tests\\src\\debug\\fixture-manager.js",
+				"anki-cards\\tests\\src\\debug\\fixture-manager.js"
+			],
+			[
+				"ankid",
+				"anki-cards\\tests\\src\\new-fixture\\AnkiDbManager.js"
+			],
+			[
+				"nwjsliol",
+				"anki-cards\\node_modules\\nwjs\\lib\\old-version.js"
+			],
+			[
+				"eslint\\lib\\shared\\config-validator",
+				"anki-cards\\node_modules\\eslint\\lib\\shared\\config-validator.js"
+			],
+			[
+				"src\\test\\index.js",
+				"anki-cards\\tests\\src\\test\\index.js"
+			],
+			[
+				"rsbackend",
+				"AnkiSources\\pylib\\anki\\rsbackend.py"
+			],
+			[
+				"/src/diff/file_manager",
+				"anki-cards\\src\\diff\\file_manager.js"
+			],
+			[
+				"model\\command\\arg\\value\\export.js",
+				"anki-cards\\model\\command\\arg\\value\\export.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\DHG\\Desktop\\Environnements\\nsdgVBA.sublime-project"
+			],
+			[
+				"grea",
+				"C:\\Users\\DHG\\Desktop\\Environnements\\06 - Poste de travail\\greasemonkey.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
